@@ -48,15 +48,15 @@ Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales d
 
 *PI Country*
 
-<img align="left" alt="Country Project" width="500px" src="https://user-images.githubusercontent.com/87193132/149218993-2a572962-64f5-4dc2-a454-76d96f52a321.png" >
+<img align="center" alt="Country Project" width="500px" src="https://user-images.githubusercontent.com/87193132/149218993-2a572962-64f5-4dc2-a454-76d96f52a321.png" >
 
-<img align="left" alt="Country Project / Add Activity" width="500px" src="https://user-images.githubusercontent.com/87193132/149219203-8bfe4ff2-02b9-45c7-83f9-4999c218467a.png" >
+<img align="center" alt="Country Project / Add Activity" width="500px" src="https://user-images.githubusercontent.com/87193132/149219203-8bfe4ff2-02b9-45c7-83f9-4999c218467a.png" >
 
-<img align="left" alt="Country Project / Details" width="500px" src="https://user-images.githubusercontent.com/87193132/149219379-f7cb876b-288e-4b9e-a19a-ef34784bf27d.png" >
+<img align="center" alt="Country Project / Details" width="500px" src="https://user-images.githubusercontent.com/87193132/149219379-f7cb876b-288e-4b9e-a19a-ef34784bf27d.png" >
 
 *Weather App*
 
-<img align="left" alt="Weather App" width="500px" src="https://user-images.githubusercontent.com/87193132/149218571-a4e8aff0-e111-464e-9537-f7a5bc30b55a.png">
+<img align="center" alt="Weather App" width="500px" src="https://user-images.githubusercontent.com/87193132/149218571-a4e8aff0-e111-464e-9537-f7a5bc30b55a.png">
 
 ---
 
