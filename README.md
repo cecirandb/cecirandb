@@ -64,7 +64,7 @@ Conectemos 👨‍💻 y crezcamos juntos.😁✌
 
 **Revisá mis repositorios.** 👇
 
-:star: Por [cecirandb](https://github.com/cecirandb)
+:star: Por [cecirandb](https://github.com/cecirandb) :star:
 
 [twitter]: https://twitter.com/cecirandb
 [instagram]: https://www.instagram.com/cecirandb/
