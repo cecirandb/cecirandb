@@ -4,9 +4,9 @@
 
 Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales del bootcamp de Soy Henry, dandole con todo y con ganas de seguir con muchísimo más :wink:
  
- 🌱 Actualmente estoy aprendiendo <img src="https://user-images.githubusercontent.com/87193132/149214743-dc378fc7-f431-4cf0-81df-5df97f483939.png" width="15px"> ReactJS a fondo.
+ 🌱 Actualmente estoy aprendiendo <img src="https://user-images.githubusercontent.com/87193132/149214743-dc378fc7-f431-4cf0-81df-5df97f483939.png" width="20px"> ReactJS a fondo.
  
- :books: Me encantaría aprender <img src="https://user-images.githubusercontent.com/87193132/149215029-5a2bf3e2-f868-4e5b-a1bc-f123a5be9093.png" width="15px"> TypeScript y <img src="https://user-images.githubusercontent.com/87193132/149215324-de19b4e2-ea2c-4729-97dc-96d216499d48.png" width="15px"> Java, entre otras cosas
+ :books: Me encantaría aprender <img src="https://user-images.githubusercontent.com/87193132/149215029-5a2bf3e2-f868-4e5b-a1bc-f123a5be9093.png" width="20px"> TypeScript y <img src="https://user-images.githubusercontent.com/87193132/149215324-de19b4e2-ea2c-4729-97dc-96d216499d48.png" width="20px"> Java, entre otras cosas
  
  🤔 Estoy buscando aprender mucho más y adquirir experiencia como desarrolladora.
 
@@ -32,7 +32,7 @@ Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales d
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecirandb&theme=react=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecirandb&theme=ayu-mirage=true)
 
 ---
 
@@ -46,9 +46,17 @@ Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales d
 ---
 ### Podes ver mis proyectos :loudspeaker: 
 
-<img align="left" alt="Country Project" width="22px" src="" />
+*PI Country
 
-<img align="left" alt="Weather App" width="22px" src="" />
+<img align="left" alt="Country Project" width="22px" src="https://user-images.githubusercontent.com/87193132/149218993-2a572962-64f5-4dc2-a454-76d96f52a321.png" >
+
+<img align="left" alt="Country Project / Add Activity" width="22px" src="https://user-images.githubusercontent.com/87193132/149219203-8bfe4ff2-02b9-45c7-83f9-4999c218467a.png" >
+
+<img align="left" alt="Country Project / Details" width="22px" src="https://user-images.githubusercontent.com/87193132/149219379-f7cb876b-288e-4b9e-a19a-ef34784bf27d.png" >
+
+*Weather App 
+
+<img align="left" alt="Weather App" width="22px" src="https://user-images.githubusercontent.com/87193132/149218571-a4e8aff0-e111-464e-9537-f7a5bc30b55a.png">
 
 ---
 
