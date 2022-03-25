@@ -4,11 +4,11 @@
 
 Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales del bootcamp de Soy Henry, dandole con todo y con ganas de seguir con muchísimo más :wink:
  
- 🌱 Actualmente estoy aprendiendo <img src="https://user-images.githubusercontent.com/87193132/149214743-dc378fc7-f431-4cf0-81df-5df97f483939.png" width="20px"> ReactJS a fondo y realizando un proyecto sobre VideoGames para soyHenry.
+ 🌱 Actualmente estoy aprendiendo Programación(Apex, SOQL) & Administración de Salesforce a la par que realizo los proyectos de soyHenry.
  
- :books: Me encantaría aprender <img src="https://user-images.githubusercontent.com/87193132/149215029-5a2bf3e2-f868-4e5b-a1bc-f123a5be9093.png" width="20px"> TypeScript y <img src="https://user-images.githubusercontent.com/87193132/149215324-de19b4e2-ea2c-4729-97dc-96d216499d48.png" width="20px"> Java, entre otras cosas
+ :books: Me encantaría aprender <img src="https://user-images.githubusercontent.com/87193132/149215029-5a2bf3e2-f868-4e5b-a1bc-f123a5be9093.png" width="20px"> TypeScript, <img src="https://user-images.githubusercontent.com/87193132/149215324-de19b4e2-ea2c-4729-97dc-96d216499d48.png" width="20px"> Java, y todos los lenguajes/frameworks que sean posibles🤭.
  
- 🤔 Estoy buscando aprender mucho más y adquirir experiencia como desarrolladora.
+ 🤔 Estoy buscando adquirir experiencia como Developer y aprender cosas nuevas😊.
 
 
 ![Profile views](https://gpvc.arturio.dev/cecirandb)  <img src="https://img.shields.io/github/followers/cecirandb?label=Follow" style=" float:left, margin-right:10px" />
