@@ -30,8 +30,7 @@ Full Stack Web Developer 👩‍💻
 ---
 
 
-### Mis redes 🌍
-[<img align="left" alt="Cecilia Cuello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Mi LinkedIn [<img align="left" alt="Cecilia Cuello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
