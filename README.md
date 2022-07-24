@@ -2,17 +2,11 @@
 
 ---
 
-Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales del bootcamp de Soy Henry, dandole con todo y con ganas de seguir con muchísimo más :wink:
+Full Stack Web Developer :wink:
  
- 🌱 Actualmente estoy aprendiendo Programación(Apex, SOQL) & Administración de Salesforce a la par que realizo los proyectos de soyHenry.
- 
- :books: Me encantaría aprender <img src="https://user-images.githubusercontent.com/87193132/149215029-5a2bf3e2-f868-4e5b-a1bc-f123a5be9093.png" width="20px"> TypeScript, <img src="https://user-images.githubusercontent.com/87193132/149215324-de19b4e2-ea2c-4729-97dc-96d216499d48.png" width="20px"> Java, y todos los lenguajes/frameworks que sean posibles🤭.
- 
- 🤔 Estoy buscando adquirir experiencia como Developer y aprender cosas nuevas😊.
-
+ 🌱 Actualmente trabajando para StartUppCloudTeam.
 
 ![Profile views](https://gpvc.arturio.dev/cecirandb)  <img src="https://img.shields.io/github/followers/cecirandb?label=Follow" style=" float:left, margin-right:10px" />
-
 
 ---
 
@@ -36,14 +30,14 @@ Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales d
 ---
 
 
-### Me podes buscar en las redes 🌍
+### Mis redes 🌍
 [<img align="left" alt="Cecilia Cuello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
 
 ---
-### Podes ver mis proyectos :loudspeaker: 
+### Un poco de mis proyectos :loudspeaker: 
 
 *PI Country*
 
@@ -58,8 +52,6 @@ Soy Full Stack Web Developer, en estos momentos cursando los proyectos finales d
 <img align="center" alt="Weather App" width="500px" src="https://user-images.githubusercontent.com/87193132/149218571-a4e8aff0-e111-464e-9537-f7a5bc30b55a.png">
 
 ---
-
-Conectemos 👨‍💻 y crezcamos juntos.😁✌
 
 **Revisá mis repositorios.** 👇
 
