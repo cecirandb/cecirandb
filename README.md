@@ -2,7 +2,7 @@
 
 ---
 
-Full Stack Web Developer :wink:
+Full Stack Web Developer 👩‍💻
  
  🌱 Actualmente trabajando para StartUppCloudTeam.
 
