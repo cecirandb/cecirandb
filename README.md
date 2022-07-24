@@ -39,6 +39,11 @@ Full Stack Web Developer :wink:
 ---
 ### Un poco de mis proyectos :loudspeaker: 
 
+*CV Project*
+
+![image](https://user-images.githubusercontent.com/87193132/180669459-77d11c69-4414-41f2-8d7c-6ec9ef390500.png)
+![image](https://user-images.githubusercontent.com/87193132/180669503-a09c4a2b-16e4-4152-a72c-31c69306d9e7.png)
+
 *PI Country*
 
 <img align="center" alt="Country Project" width="500px" src="https://user-images.githubusercontent.com/87193132/149218993-2a572962-64f5-4dc2-a454-76d96f52a321.png" >
