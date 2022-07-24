@@ -41,8 +41,10 @@ Full Stack Web Developer :wink:
 
 *CV Project*
 
+Podes verlo acá: https://ceciprojectcv.netlify.app/projects
+
 ![image](https://user-images.githubusercontent.com/87193132/180669459-77d11c69-4414-41f2-8d7c-6ec9ef390500.png)
-![image](https://user-images.githubusercontent.com/87193132/180669503-a09c4a2b-16e4-4152-a72c-31c69306d9e7.png)
+![image](https://user-images.githubusercontent.com/87193132/180669530-dbf31a1e-e56d-45f8-b7ef-5831472d91ea.png)
 
 *PI Country*
 
