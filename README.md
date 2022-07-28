@@ -55,9 +55,9 @@ Podes verlo acá: https://weatherapp-cecirandb.netlify.app/
 
 *PI Country*
 
-<img align="center" alt="Country Project" width="500px" src="https://user-images.githubusercontent.com/87193132/181423521-acd6a695-966e-4555-99ad-714ed6283351.png">
-<img align="center" alt="Country Project / Details" width="500px" src="!https://user-images.githubusercontent.com/87193132/181423653-a4db3378-9688-433f-8085-d18f273aa0d1.png" >
-<img align="center" alt="Country Project / Add Activity" width="500px" src="https://user-images.githubusercontent.com/87193132/181423596-7a71b099-cd8f-41bd-92e8-6cc0fb3a9360.png" >
+![image](https://user-images.githubusercontent.com/87193132/181423521-acd6a695-966e-4555-99ad-714ed6283351.png)
+![image](https://user-images.githubusercontent.com/87193132/181423653-a4db3378-9688-433f-8085-d18f273aa0d1.png)
+![image](https://user-images.githubusercontent.com/87193132/181423596-7a71b099-cd8f-41bd-92e8-6cc0fb3a9360.png)
 
 ---
 
