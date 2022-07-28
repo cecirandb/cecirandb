@@ -34,7 +34,8 @@
 ---
 
 
-### LinkedIn [<img align="left" alt="Cecilia Cuello | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### LinkedIn [<img align="left" alt="Cecilia Cuello | LinkedIn" width="20px" src="![image](https://user-images.githubusercontent.com/87193132/181416028-b0007270-b7b1-4722-85ea-46b662173e74.png)
+" />][linkedin]
 
 
 ---
