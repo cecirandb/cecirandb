@@ -34,8 +34,7 @@
 ---
 
 
-### LinkedIn <img align="left" alt="Cecilia Cuello | LinkedIn" width="20px" href="![image](https://user-images.githubusercontent.com/87193132/181416335-a12697c0-c154-4433-af07-e30067c0616d.png)
-"/>
+### LinkedIn <img align="left" alt="Cecilia Cuello | LinkedIn" width="20px" src="https://user-images.githubusercontent.com/87193132/181416515-7a889ba4-bc7f-42c5-a8dd-84b2c9e39384.png"/>
 
 
 ---
