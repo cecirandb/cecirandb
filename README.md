@@ -3,8 +3,6 @@
 ---
 
 `Software Developer 💻`
- 
- 👩‍💻 Actualmente trabajando para StartUppCloudTeam.
 
 ![Profile views](https://gpvc.arturio.dev/cecirandb)  <img src="https://img.shields.io/github/followers/cecirandb?label=Follow" style=" float:left, margin-right:10px" />
 
