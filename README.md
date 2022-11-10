@@ -1,68 +1,53 @@
-### Holaa, soy Ceci 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1000&color=A7F7BC&center=true&vCenter=true&width=700&height=70&lines=Hi!+Im+Ceci%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+Sofware+Developer%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+
+<h4 align="center"><samp> Hi there 👋🏽 welcome to my Github! I am a proactive person who enjoys challenges and learning new technologies ☺ </samp></h4>
+
+<!-- Social Media -->
+
+<h5 align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ceciliacuello"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:cecicuellorandb@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href=""https://instagram.com/cecirandb"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/cecirandb"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+</h5>
 
 ---
 
-`Software Developer 💻`
+<!-- Software -->
 
-![Profile views](https://gpvc.arturio.dev/cecirandb)  <img src="https://img.shields.io/github/followers/cecirandb?label=Follow" style=" float:left, margin-right:10px" />
-
----
-
-
-### Preferencia de Tecnología y Herramientas.
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-6a72d1?style=flat&logo=redux&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sequelize-1798CD?style=flat&logo=sequelize&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Apex%20SalesForce-1798c1?style=flat&logo=salesforce&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Jira-0052cc?style=flat&logo=jirasoftware&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Microsoft%20Teams-505AC9?style=flat&logo=microsoftteams&logoColor=ffffff">
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecirandb&theme=ayu-mirage=true)
-
----
-
-
-<img align="left" alt="Cecilia Cuello | LinkedIn" width="27px" src="https://user-images.githubusercontent.com/87193132/181416515-7a889ba4-bc7f-42c5-a8dd-84b2c9e39384.png" href="https://www.linkedin.com/in/ceciliacuello/"/> <a href="https://www.linkedin.com/in/ceciliacuello/">LinkedIn</a>
-
-
----
-### Un poco de mis proyectos :loudspeaker: 
-
-*CV Project*
-
-Podes verlo acá: https://ceciprojectcv.netlify.app/
-
-![image](https://user-images.githubusercontent.com/87193132/180669459-77d11c69-4414-41f2-8d7c-6ec9ef390500.png)
-![image](https://user-images.githubusercontent.com/87193132/180669530-dbf31a1e-e56d-45f8-b7ef-5831472d91ea.png)
-
-*Weather App*
-
-Podes verlo acá: https://weatherapp-cecirandb.netlify.app/
-
-![image](https://user-images.githubusercontent.com/87193132/180669622-561c88d6-38e6-4700-a379-b520cf5cc74b.png)
-
-*PI Country*
-
-![image](https://user-images.githubusercontent.com/87193132/181423521-acd6a695-966e-4555-99ad-714ed6283351.png)
-![image](https://user-images.githubusercontent.com/87193132/181423653-a4db3378-9688-433f-8085-d18f273aa0d1.png)
-![image](https://user-images.githubusercontent.com/87193132/181423596-7a71b099-cd8f-41bd-92e8-6cc0fb3a9360.png)
-
----
-
-**Revisá mis repositorios.** 👇
-
-:star: Por [cecirandb](https://github.com/cecirandb) :star:
-
-[twitter]: https://twitter.com/cecirandb
-[instagram]: https://www.instagram.com/cecirandb/
-[linkedin]: https://www.linkedin.com/in/cecilia-cuello/
+<p align="center">
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML5"
+           src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS3"
+           src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+           src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
+           src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+           src="https://img.shields.io/badge/-React.js-9b3675?style=flat-square&logo=React&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+           src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Express.js"
+           src="https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=Express&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Sequelize"
+           src="https://img.shields.io/badge/-Sequelize-487DB2?style=flat-square&logo=Sequelize&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PostgreSQL"
+           src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Salesforce"
+           src="https://img.shields.io/badge/-Salesforce-1798c1?style=flat-square&logo=Salesforce&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Node"
+           src="https://img.shields.io/badge/-Node.js-44883e?style=flat-square&logo=Node.js&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Salesforce"
+           src="https://img.shields.io/badge/-SOQL Apex-1798c1?style=flat-square&logo=Salesforce&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Redux"
+           src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Jira"
+           src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="MicrosofTeam"
+           src="https://img.shields.io/badge/-Microsoft Teams-505AC9?style=flat-square&logo=MicrosoftTeams&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Amazon AWS"
+           src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"></a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Git"
+           src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white"></a>
+</p>
