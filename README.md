@@ -26,8 +26,6 @@
            src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
            src="https://img.shields.io/badge/-React.js-9b3675?style=flat-square&logo=React&logoColor=white"></a>
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-           src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Express.js"
            src="https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=Express&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Sequelize"
